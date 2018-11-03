@@ -1,8 +1,8 @@
 ## Welcome to OnlyForMe Pages
 
-- 中文模版文件
+- 更新于：2018-11-03
 - [中文模版](https://tvplayersupport.github.io/OnlyForMe/myPlaylistCn.txt.zip) 
 
-- 英文模版文件
-- [英文模版](https://tvplayersupport.github.io/OnlyForMe/myPlaylistEn.txt.zip) 
+- Updated on November 3, 2018
+- [English](https://tvplayersupport.github.io/OnlyForMe/myPlaylistEn.txt.zip) 
 
