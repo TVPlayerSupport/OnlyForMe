@@ -96,7 +96,7 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年11月08日                &&&&&&&&&&
+&&&&&&&&&&            2018年11月09日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -108,107 +108,112 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 ====新增源地址专用段====,*
 
-CCTV-1综合        ,http://223.110.242.130:6610/cntv/live1/cctv-1/cctv-1
-CCTV-2财经        ,http://223.110.242.130:6610/cntv/live1/cctv-2/cctv-2
-CCTV-3综艺        ,http://223.110.242.130:6610/cntv/live1/cctv-3/cctv-3
-CCTV-4中文国际    ,http://223.110.242.130:6610/cntv/live1/cctv-4/cctv-4
-CCTV-5体育        ,http://223.110.242.130:6610/cntv/live1/cctv-5/cctv-5
-CCTV-5+体育赛事   ,http://223.110.242.130:6610/cntv/live1/hdcctv05plus/hdcctv05plus
-CCTV-6电影        ,http://223.110.242.130:6610/cntv/live1/cctv-6/cctv-6
-CCTV-7军事农业    ,http://223.110.242.130:6610/cntv/live1/cctv-7/cctv-7
-CCTV-8电视剧      ,http://223.110.242.130:6610/cntv/live1/cctv-8/cctv-8
-CCTV-9记录        ,http://223.110.242.130:6610/cntv/live1/cctv-9/cctv-9
-CCTV-10科教       ,http://223.110.242.130:6610/cntv/live1/cctv-10/cctv-10
-CCTV-11戏曲       ,http://223.110.242.130:6610/cntv/live1/cctv-11/cctv-11
-CCTV-12社会与法   ,http://223.110.242.130:6610/cntv/live1/cctv-12/cctv-12
-CCV-13新闻       ,http://223.110.242.130:6610/cntv/live1/cctv-13/cctv-13
-CCTV-14少儿       ,http://223.110.242.130:6610/cntv/live1/cctv-14/cctv-14
-CCTV-15音乐       ,http://223.110.242.130:6610/cntv/live1/cctv-15/cctv-15
 
-CCTV-1综合        ,http://223.110.242.130:6610/cntv/live1/cctv-1/1.m3u8
-CCTV-2财经        ,http://223.110.242.130:6610/cntv/live1/cctv-2/1.m3u8
-CCTV-3综艺        ,http://223.110.242.130:6610/cntv/live1/cctv-3/1.m3u8
-CCTV-4中文国际    ,http://223.110.242.130:6610/cntv/live1/cctv-4/1.m3u8
-CCTV-5体育        ,http://223.110.242.130:6610/cntv/live1/cctv-5/1.m3u8
-CCTV-5+体育赛事   ,http://223.110.242.130:6610/cntv/live1/hdcctv05plus/1.m3u8
-CCTV-6电影        ,http://223.110.242.130:6610/cntv/live1/cctv-6/1.m3u8
-CCTV-7军事农业    ,http://223.110.242.130:6610/cntv/live1/cctv-7/1.m3u8
-CCTV-8电视剧      ,http://223.110.242.130:6610/cntv/live1/cctv-8/1.m3u8
-CCTV-9记录        ,http://223.110.242.130:6610/cntv/live1/cctv-9/1.m3u8
-CCTV-10科教       ,http://223.110.242.130:6610/cntv/live1/cctv-10/1.m3u8
-CCTV-11戏曲       ,http://223.110.242.130:6610/cntv/live1/cctv-11/1.m3u8
-CCTV-12社会与法   ,http://223.110.242.130:6610/cntv/live1/cctv-12/1.m3u8
-CCTV-13新闻       ,http://223.110.242.130:6610/cntv/live1/cctv-13/1.m3u8
-CCTV-14少儿       ,http://223.110.242.130:6610/cntv/live1/cctv-14/1.m3u8
-CCTV-15音乐       ,http://223.110.242.130:6610/cntv/live1/cctv-15/1.m3u8
+凤凰卫视中文台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰卫视资讯台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+凤凰卫视香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 
-浙江卫视          ,http://223.110.242.130:6610/cntv/live1/zhejiangstv/zhejiangstv
-湖南卫视          ,http://223.110.242.130:6610/cntv/live1/hunanstv/hunanstv
-湖北卫视          ,http://223.110.242.130:6610/cntv/live1/hubeistv/hubeistv
-东方卫视          ,http://223.110.242.130:6610/cntv/live1/dongfangstv/dongfangstv
-天津卫视          ,http://223.110.242.130:6610/cntv/live1/tianjinstv/tianjinstv
-云南卫视          ,http://223.110.242.130:6610/cntv/live1/yunnanstv/yunnanstv
-四川卫视          ,http://223.110.242.130:6610/cntv/live1/sichuanstv/sichuanstv
-重庆卫视          ,http://223.110.242.130:6610/cntv/live1/chongqingstv/chongqingstv
-贵州卫视          ,http://223.110.242.130:6610/cntv/live1/guizhoustv/guizhoustv
-广西卫视          ,http://223.110.242.130:6610/cntv/live1/guangxistv/guangxistv
-广东卫视          ,http://223.110.242.130:6610/cntv/live1/guangdongstv/guangdongstv
-北京卫视          ,http://223.110.242.130:6610/cntv/live1/beijingstv/beijingstv
-河北卫视          ,http://223.110.242.130:6610/cntv/live1/hebeistv/hebeistv
-江苏卫视          ,http://223.110.242.130:6610/cntv/live1/jiangsustv/jiangsustv
-江西卫视          ,http://223.110.242.130:6610/cntv/live1/jiangxistv/jiangxistv
-安徽卫视          ,http://223.110.242.130:6610/cntv/live1/anhuistv/anhuistv
-福建卫视          ,http://223.110.242.130:6610/cntv/live1/dongnanstv/dongnanstv
-山东卫视          ,http://223.110.242.130:6610/cntv/live1/shandongstv/shandongstv
-山西卫视          ,http://223.110.242.130:6610/cntv/live1/shanxistv/shanxistv
-吉林卫视          ,http://223.110.242.130:6610/cntv/live1/jilinstv/jilinstv
-河南卫视          ,http://223.110.242.130:6610/cntv/live1/henanstv/henanstv
-辽宁卫视          ,http://223.110.242.130:6610/cntv/live1/liaoningstv/liaoningstv
-内蒙古卫视        ,http://223.110.242.130:6610/cntv/live1/neimenggustv/neimenggustv
-陕西卫视          ,http://223.110.242.130:6610/cntv/live1/shanxi1stv/shanxi1stv
-宁夏卫视          ,http://223.110.242.130:6610/cntv/live1/ningxiastv/ningxiastv
-甘肃卫视          ,http://223.110.242.130:6610/cntv/live1/gansustv/gansustv
-青海卫视          ,http://223.110.242.130:6610/cntv/live1/qinghaistv/qinghaistv
-新疆卫视          ,http://223.110.242.130:6610/cntv/live1/xinjiangstv/xinjiangstv
-西藏卫视          ,http://223.110.242.130:6610/cntv/live1/xizangstv/xizangstv
-山东教育          ,http://223.110.242.130:6610/cntv/live1/shandongjy/shandongjy
+CCTV-1综合,http://223.110.242.130:6610/cntv/live1/cctv-1/cctv-1
+CCTV-2财经,http://223.110.242.130:6610/cntv/live1/cctv-2/cctv-2
+CCTV-3综艺,http://223.110.242.130:6610/cntv/live1/cctv-3/cctv-3
+CCTV-4中文国际,http://223.110.242.130:6610/cntv/live1/cctv-4/cctv-4
+CCTV-5体育,http://223.110.242.130:6610/cntv/live1/cctv-5/cctv-5
+CCTV-5+体育赛事,http://223.110.242.130:6610/cntv/live1/hdcctv05plus/hdcctv05plus
+CCTV-6电影,http://223.110.242.130:6610/cntv/live1/cctv-6/cctv-6
+CCTV-7军事农业,http://223.110.242.130:6610/cntv/live1/cctv-7/cctv-7
+CCTV-8电视剧,http://223.110.242.130:6610/cntv/live1/cctv-8/cctv-8
+CCTV-9记录,http://223.110.242.130:6610/cntv/live1/cctv-9/cctv-9
+CCTV-10科教,http://223.110.242.130:6610/cntv/live1/cctv-10/cctv-10
+CCTV-11戏曲,http://223.110.242.130:6610/cntv/live1/cctv-11/cctv-11
+CCTV-12社会与法,http://223.110.242.130:6610/cntv/live1/cctv-12/cctv-12
+CCV-13新闻,http://223.110.242.130:6610/cntv/live1/cctv-13/cctv-13
+CCTV-14少儿,http://223.110.242.130:6610/cntv/live1/cctv-14/cctv-14
+CCTV-15音乐,http://223.110.242.130:6610/cntv/live1/cctv-15/cctv-15
 
-浙江卫视          ,http://223.110.242.130:6610/cntv/live1/zhejiangstv/1.m3u8
-湖南卫视          ,http://223.110.242.130:6610/cntv/live1/hunanstv/1.m3u8
-湖北卫视          ,http://223.110.242.130:6610/cntv/live1/hubeistv/1.m3u8
-东方卫视          ,http://223.110.242.130:6610/cntv/live1/dongfangstv/1.m3u8
-天津卫视          ,http://223.110.242.130:6610/cntv/live1/tianjinstv/1.m3u8
-云南卫视          ,http://223.110.242.130:6610/cntv/live1/yunnanstv/1.m3u8
-四川卫视          ,http://223.110.242.130:6610/cntv/live1/sichuanstv/1.m3u8
-重庆卫视          ,http://223.110.242.130:6610/cntv/live1/chongqingstv/1.m3u8
-贵州卫视          ,http://223.110.242.130:6610/cntv/live1/guizhoustv/1.m3u8
-广西卫视          ,http://223.110.242.130:6610/cntv/live1/guangxistv/1.m3u8
-广东卫视          ,http://223.110.242.130:6610/cntv/live1/guangdongstv/1.m3u8
-北京卫视          ,http://223.110.242.130:6610/cntv/live1/beijingstv/1.m3u8
-河北卫视          ,http://223.110.242.130:6610/cntv/live1/hebeistv/1.m3u8
-江苏卫视          ,http://223.110.242.130:6610/cntv/live1/jiangsustv/1.m3u8
-江西卫视          ,http://223.110.242.130:6610/cntv/live1/jiangxistv/1.m3u8
-安徽卫视          ,http://223.110.242.130:6610/cntv/live1/anhuistv/1.m3u8
-福建卫视          ,http://223.110.242.130:6610/cntv/live1/dongnanstv/1.m3u8
-山东卫视          ,http://223.110.242.130:6610/cntv/live1/shandongstv/1.m3u8
-山西卫视          ,http://223.110.242.130:6610/cntv/live1/shanxistv/1.m3u8
-吉林卫视          ,http://223.110.242.130:6610/cntv/live1/jilinstv/1.m3u8
-河南卫视          ,http://223.110.242.130:6610/cntv/live1/henanstv/1.m3u8
-辽宁卫视          ,http://223.110.242.130:6610/cntv/live1/liaoningstv/1.m3u8
-内蒙古卫视        ,http://223.110.242.130:6610/cntv/live1/neimenggustv/1.m3u8
-陕西卫视          ,http://223.110.242.130:6610/cntv/live1/shanxi1stv/1.m3u8
-宁夏卫视          ,http://223.110.242.130:6610/cntv/live1/ningxiastv/1.m3u8
-甘肃卫视          ,http://223.110.242.130:6610/cntv/live1/gansustv/1.m3u8
-青海卫视          ,http://223.110.242.130:6610/cntv/live1/qinghaistv/1.m3u8
-新疆卫视          ,http://223.110.242.130:6610/cntv/live1/xinjiangstv/1.m3u8
-西藏卫视          ,http://223.110.242.130:6610/cntv/live1/xizangstv/1.m3u8
-旅游卫视          ,http://223.110.242.130:6610/cntv/live1/lyoustv/1.m3u8
-深圳卫视          ,http://223.110.242.130:6610/cntv/live1/shenzhenstv/1.m3u8
-山东教育          ,http://223.110.242.130:6610/cntv/live1/shandongjy/1.m3u8
-教育频道          ,http://223.110.242.130:6610/cntv/live1/jiaoyutv/j1.m3u8
-金鹰卡通          ,http://223.110.242.130:6610/cntv/live1/jinyingkaton/1.m3u8
-KAKU少儿          ,http://223.110.242.130:6610/cntv/live1/kakukaton/1.m3u8
-炫动卡通          ,http://223.110.242.130:6610/cntv/live1/xuandongkaton/1.m3u8
+CCTV-1综合,http://223.110.242.130:6610/cntv/live1/cctv-1/1.m3u8
+CCTV-2财经,http://223.110.242.130:6610/cntv/live1/cctv-2/1.m3u8
+CCTV-3综艺,http://223.110.242.130:6610/cntv/live1/cctv-3/1.m3u8
+CCTV-4中文国际,http://223.110.242.130:6610/cntv/live1/cctv-4/1.m3u8
+CCTV-5体育,http://223.110.242.130:6610/cntv/live1/cctv-5/1.m3u8
+CCTV-5+体育赛事,http://223.110.242.130:6610/cntv/live1/hdcctv05plus/1.m3u8
+CCTV-6电影,http://223.110.242.130:6610/cntv/live1/cctv-6/1.m3u8
+CCTV-7军事农业,http://223.110.242.130:6610/cntv/live1/cctv-7/1.m3u8
+CCTV-8电视剧,http://223.110.242.130:6610/cntv/live1/cctv-8/1.m3u8
+CCTV-9记录,http://223.110.242.130:6610/cntv/live1/cctv-9/1.m3u8
+CCTV-10科教,http://223.110.242.130:6610/cntv/live1/cctv-10/1.m3u8
+CCTV-11戏曲,http://223.110.242.130:6610/cntv/live1/cctv-11/1.m3u8
+CCTV-12社会与法,http://223.110.242.130:6610/cntv/live1/cctv-12/1.m3u8
+CCTV-13新闻,http://223.110.242.130:6610/cntv/live1/cctv-13/1.m3u8
+CCTV-14少儿,http://223.110.242.130:6610/cntv/live1/cctv-14/1.m3u8
+CCTV-15音乐,http://223.110.242.130:6610/cntv/live1/cctv-15/1.m3u8
+
+浙江卫视,http://223.110.242.130:6610/cntv/live1/zhejiangstv/zhejiangstv
+湖南卫视,http://223.110.242.130:6610/cntv/live1/hunanstv/hunanstv
+湖北卫视,http://223.110.242.130:6610/cntv/live1/hubeistv/hubeistv
+东方卫视,http://223.110.242.130:6610/cntv/live1/dongfangstv/dongfangstv
+天津卫视,http://223.110.242.130:6610/cntv/live1/tianjinstv/tianjinstv
+云南卫视,http://223.110.242.130:6610/cntv/live1/yunnanstv/yunnanstv
+四川卫视,http://223.110.242.130:6610/cntv/live1/sichuanstv/sichuanstv
+重庆卫视,http://223.110.242.130:6610/cntv/live1/chongqingstv/chongqingstv
+贵州卫视,http://223.110.242.130:6610/cntv/live1/guizhoustv/guizhoustv
+广西卫视,http://223.110.242.130:6610/cntv/live1/guangxistv/guangxistv
+广东卫视,http://223.110.242.130:6610/cntv/live1/guangdongstv/guangdongstv
+北京卫视,http://223.110.242.130:6610/cntv/live1/beijingstv/beijingstv
+河北卫视,http://223.110.242.130:6610/cntv/live1/hebeistv/hebeistv
+江苏卫视,http://223.110.242.130:6610/cntv/live1/jiangsustv/jiangsustv
+江西卫视,http://223.110.242.130:6610/cntv/live1/jiangxistv/jiangxistv
+安徽卫视,http://223.110.242.130:6610/cntv/live1/anhuistv/anhuistv
+福建卫视,http://223.110.242.130:6610/cntv/live1/dongnanstv/dongnanstv
+山东卫视,http://223.110.242.130:6610/cntv/live1/shandongstv/shandongstv
+山西卫视,http://223.110.242.130:6610/cntv/live1/shanxistv/shanxistv
+吉林卫视,http://223.110.242.130:6610/cntv/live1/jilinstv/jilinstv
+河南卫视,http://223.110.242.130:6610/cntv/live1/henanstv/henanstv
+辽宁卫视,http://223.110.242.130:6610/cntv/live1/liaoningstv/liaoningstv
+内蒙古卫视,http://223.110.242.130:6610/cntv/live1/neimenggustv/neimenggustv
+陕西卫视,http://223.110.242.130:6610/cntv/live1/shanxi1stv/shanxi1stv
+宁夏卫视,http://223.110.242.130:6610/cntv/live1/ningxiastv/ningxiastv
+甘肃卫视,http://223.110.242.130:6610/cntv/live1/gansustv/gansustv
+青海卫视,http://223.110.242.130:6610/cntv/live1/qinghaistv/qinghaistv
+新疆卫视,http://223.110.242.130:6610/cntv/live1/xinjiangstv/xinjiangstv
+西藏卫视,http://223.110.242.130:6610/cntv/live1/xizangstv/xizangstv
+山东教育,http://223.110.242.130:6610/cntv/live1/shandongjy/shandongjy
+
+浙江卫视,http://223.110.242.130:6610/cntv/live1/zhejiangstv/1.m3u8
+湖南卫视,http://223.110.242.130:6610/cntv/live1/hunanstv/1.m3u8
+湖北卫视,http://223.110.242.130:6610/cntv/live1/hubeistv/1.m3u8
+东方卫视,http://223.110.242.130:6610/cntv/live1/dongfangstv/1.m3u8
+天津卫视,http://223.110.242.130:6610/cntv/live1/tianjinstv/1.m3u8
+云南卫视,http://223.110.242.130:6610/cntv/live1/yunnanstv/1.m3u8
+四川卫视,http://223.110.242.130:6610/cntv/live1/sichuanstv/1.m3u8
+重庆卫视,http://223.110.242.130:6610/cntv/live1/chongqingstv/1.m3u8
+贵州卫视,http://223.110.242.130:6610/cntv/live1/guizhoustv/1.m3u8
+广西卫视,http://223.110.242.130:6610/cntv/live1/guangxistv/1.m3u8
+广东卫视,http://223.110.242.130:6610/cntv/live1/guangdongstv/1.m3u8
+北京卫视,http://223.110.242.130:6610/cntv/live1/beijingstv/1.m3u8
+河北卫视,http://223.110.242.130:6610/cntv/live1/hebeistv/1.m3u8
+江苏卫视,http://223.110.242.130:6610/cntv/live1/jiangsustv/1.m3u8
+江西卫视,http://223.110.242.130:6610/cntv/live1/jiangxistv/1.m3u8
+安徽卫视,http://223.110.242.130:6610/cntv/live1/anhuistv/1.m3u8
+福建卫视,http://223.110.242.130:6610/cntv/live1/dongnanstv/1.m3u8
+山东卫视,http://223.110.242.130:6610/cntv/live1/shandongstv/1.m3u8
+山西卫视,http://223.110.242.130:6610/cntv/live1/shanxistv/1.m3u8
+吉林卫视,http://223.110.242.130:6610/cntv/live1/jilinstv/1.m3u8
+河南卫视,http://223.110.242.130:6610/cntv/live1/henanstv/1.m3u8
+辽宁卫视,http://223.110.242.130:6610/cntv/live1/liaoningstv/1.m3u8
+内蒙古卫视,http://223.110.242.130:6610/cntv/live1/neimenggustv/1.m3u8
+陕西卫视,http://223.110.242.130:6610/cntv/live1/shanxi1stv/1.m3u8
+宁夏卫视,http://223.110.242.130:6610/cntv/live1/ningxiastv/1.m3u8
+甘肃卫视,http://223.110.242.130:6610/cntv/live1/gansustv/1.m3u8
+青海卫视,http://223.110.242.130:6610/cntv/live1/qinghaistv/1.m3u8
+新疆卫视,http://223.110.242.130:6610/cntv/live1/xinjiangstv/1.m3u8
+西藏卫视,http://223.110.242.130:6610/cntv/live1/xizangstv/1.m3u8
+旅游卫视,http://223.110.242.130:6610/cntv/live1/lyoustv/1.m3u8
+深圳卫视,http://223.110.242.130:6610/cntv/live1/shenzhenstv/1.m3u8
+山东教育,http://223.110.242.130:6610/cntv/live1/shandongjy/1.m3u8
+教育频道,http://223.110.242.130:6610/cntv/live1/jiaoyutv/j1.m3u8
+金鹰卡通,http://223.110.242.130:6610/cntv/live1/jinyingkaton/1.m3u8
+KAKU少儿,http://223.110.242.130:6610/cntv/live1/kakukaton/1.m3u8
+炫动卡通,http://223.110.242.130:6610/cntv/live1/xuandongkaton/1.m3u8
 
 刀郎降央卓玛好歌大联唱珍藏版,http://220.194.236.202/1/y/x/w/s/yxwsvnjxcmpjxqpskzvqgonvjeiram/hc.yinyuetai.com/5382015FFC4C1A3CFD17D10E4CC96B2D.mp4
 哭砂,http://221.228.226.5/14/f/n/n/k/fnnkrmxvtnrzfvxthfsxzfnybouzvo/hc.yinyuetai.com/7F72015E31FC1F3567BCA9D3EFC30D3F.mp4
