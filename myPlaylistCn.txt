@@ -96,7 +96,7 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年11月10日                &&&&&&&&&&
+&&&&&&&&&&            2018年11月11日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -107,6 +107,9 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 
 ====新增源地址专用段====,*
+
+Lèeekô TV,http://livetvsteam.com:1935/leeeko/smil:leeeko.smil/chunklist_w69237643_b850000_slen.m3u8
+TMA Tv Caraibes,http://hls.tmacaraibes.com/live/index.m3u8
 
 河南卫视1080P,http://116.199.5.51:8114/00000000/hls/2.m3u8?Fsv_chan_hls_se_idx=3&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
