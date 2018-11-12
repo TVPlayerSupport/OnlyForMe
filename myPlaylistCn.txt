@@ -96,7 +96,7 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年11月11日                &&&&&&&&&&
+&&&&&&&&&&            2018年11月12日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -108,9 +108,23 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 ====新增源地址专用段====,*
 
+Kiss-Tv-Brasil,http://sateg.cdnseguro.com/kisstv/kisstv/playlist.m3u8?wowzasessionid=719152565
 
-
-
+澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+澳视资讯,http://103.233.191.135:1935/ch5/info_ch5.live/playlist.m3u8
+澳视资讯,http://103.233.191.136:1935/ch5/info_ch5.live/playlist.m3u8
+澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视体育,http://103.233.191.135:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视体育,http://103.233.191.136:1935/ch4/sport_ch4.live/playlist.m3u8
+澳视卫星,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+澳视卫星,http://103.233.191.135:1935/ch3/ch3.live/playlist.m3u8
+澳视卫星,http://103.233.191.136:1935/ch3/ch3.live/playlist.m3u8
+澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+澳视澳门,http://103.233.191.136:1935/ch1/ch1.live/playlist.m3u8
+澳视澳门,http://103.233.191.135:1935/ch1/ch1.live/playlist.m3u8
+澳视高清,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+澳视高清,http://103.233.191.135:1935/ch6/hd_ch6.live/playlist.m3u8
+澳视高清,http://103.233.191.136:1935/ch6/hd_ch6.live/playlist.m3u8
 
 ====以上为新增源地址====
 
