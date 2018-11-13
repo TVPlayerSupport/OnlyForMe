@@ -96,7 +96,7 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年11月12日                &&&&&&&&&&
+&&&&&&&&&&            2018年11月13日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -108,7 +108,19 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 ====新增源地址专用段====,*
 
-Kiss-Tv-Brasil,http://sateg.cdnseguro.com/kisstv/kisstv/playlist.m3u8?wowzasessionid=719152565
+RaiMovie,http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+俄罗斯MTV,http://85.132.78.6:1935/live/muztv.stream/lihattv.m3u8
+
+希腊KONTRA,http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+希腊VOULI,http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+
+CBN,http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
+沙特makkahtv,http://jmc-live.ercdn.net/makkahtv/makkahtv_360p.m3u8
+
+M2O,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
 
 澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 澳视资讯,http://103.233.191.135:1935/ch5/info_ch5.live/playlist.m3u8
