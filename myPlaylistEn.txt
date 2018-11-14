@@ -16,7 +16,12 @@ IPTV-Player-INDIA-Zoom,https://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomwe
 IPTV-Player-INDIA-Zoom,http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 IPTV-Player-INDIA-Zoom,https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 
+IPTV-Player-POP-PATAKA,http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+
 IPTV-Player-MUSIC-choice,https://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+IPTV-Player-M2O,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+IPTV-Player-M2O,https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 IPTV-Player-Music-Box-UA,http://212.26.132.86/hls/mb_ua_2500.m3u8
 
@@ -66,8 +71,10 @@ Music-Choice-Musica-Urbana,https://edge.music-choice-vc-chainb1.top.comcast.net/
 Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
 
 ################################
-  Updated-on-November 13, 2018
+  Updated-on-November 14, 2018
 ################################
+
+Dangdutch,http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 
 RaiMovie,http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 

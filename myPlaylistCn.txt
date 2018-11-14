@@ -41,9 +41,14 @@ IPTV网络电视播放器-INDIA-Zoom,https://zoomweblive-lh.akamaihd.net/i/Zoom-
 IPTV网络电视播放器-Zoom,http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 IPTV网络电视播放器-Zoom,https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 
+IPTV网络电视播放器-POP-PATAKA,http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+
 IPTV网络电视播放器-魅力音乐,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 IPTV网络电视播放器-MC(music-choice),http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+IPTV网络电视播放器-M2O,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+IPTV网络电视播放器-M2O,https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 IPTV网络电视播放器-Music-Box-UA,http://212.26.132.86/hls/mb_ua_2500.m3u8
 
@@ -96,7 +101,7 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年11月13日                &&&&&&&&&&
+&&&&&&&&&&            2018年11月14日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -108,9 +113,35 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 ====新增源地址专用段====,*
 
+Dangdutch,http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+
+港产恐咘搞笑,https://aldirect.hls.huya.com/huyalive/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1_1200.m3u8
+【济公】鞋儿破帽儿破身上袈裟破,https://aldirect.hls.huya.com/huyalive/29169025-2686221242-11537232384210501632-2847687560-10057-A-0-1_1200.m3u8
+齐天大圣孙悟空·张卫健陈浩民版西游记,https://ws4.streamhls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1_1200/playlist.m3u8
+隋唐英雄传·销魂的暴君杨广,https://aldirect.hls.huya.com/huyalive/29359996-2689637532-11551905238034153472-2847687564-10057-A-0-1_1200.m3u8
+僵尸道长·珍藏林阵英僵尸剧,https://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
+未解之谜-深入探究鬼宅、万人坑,https://aldirect.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1_1200.m3u8
+【怀念金庸】笑傲江湖 霍建华陈乔恩版,https://aldirect.hls.huya.com/huyalive/29359996-2689640740-11551919016289239040-2847699140-10057-A-0-1_1200.m3u8
+红色经典佳片·愿得此身长报国,https://aldirect.hls.huya.com/huyalive/30765679-2533224718-10880117317228822528-3049003134-10057-A-0-1_1200.m3u8
+特警力量·我是特种兵原班人马,https://aldirect.hls.huya.com/huyalive/29141112-2689671100-11552049411496345600-3048959608-10057-A-0-1_1200.m3u8
+【怀念金庸】神雕侠侣古天乐版·大家好我是尹志平.路过,https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
+【怀念金庸】侠客行最好的,https://aldirect.hls.huya.com/huyalive/30765679-2554414889-10971128408670470144-3048991640-10057-A-0-1_1200.m3u8
+
+都市剧场,http://weblive.hebtv.com/live/Asianaction/index.m3u8
+
+RADIO-ONLINE-Tv-COLOMBIA,http://streaminglivehd.com:1935/8126/8126/playlist.m3u8
+FARRA-PLAY-HD,http://159.203.148.226/live/farra_src.m3u8
+
+J2-1080P,http://al3-flv.live.huajiao.com/live/channel10890356.m3u8
+J2-1080P,http://al3-flv.live.huajiao.com/live/channel10890316.m3u8
+无线新闻-1080P,http://al3-flv.live.huajiao.com/live/channel10890103.m3u8
+有线新闻-1080P,http://al3-flv.live.huajiao.com/live/channel10890201.m3u8
+
 RaiMovie,http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+RaiMovie,https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 俄罗斯MTV,http://85.132.78.6:1935/live/muztv.stream/lihattv.m3u8
+俄罗斯MTV,https://85.132.78.6:1935/live/muztv.stream/lihattv.m3u8
 
 希腊KONTRA,http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 希腊VOULI,http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
@@ -119,7 +150,6 @@ CBN,http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
 沙特makkahtv,http://jmc-live.ercdn.net/makkahtv/makkahtv_360p.m3u8
 
-M2O,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 
 澳视资讯,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
