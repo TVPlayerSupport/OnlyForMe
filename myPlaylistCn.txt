@@ -101,7 +101,7 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年11月15日                &&&&&&&&&&
+&&&&&&&&&&            2018年11月16日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -113,10 +113,31 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 ====新增源地址专用段====,*
 
-加拿大国家电视台,https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
-加拿大中文电视台,https://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/master.m3u8
-
+CNN,https://1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+CNN,https://1828529515.rsc.cdn77.org/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
+CNN,https://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+CNN,http://1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+CNN,http://1828529515.rsc.cdn77.org/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
 CNN,http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
+FOX-news,https://1028107998.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+FOX-news,https://1875856221.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
+
+FOX-news,http://1028107998.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+FOX-news,http://1875856221.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
+FOX-CINEMA,http://161.0.157.5/PLTV/88888888/224/3221226793/01.m3u8
+
+HBO2,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+CombatGo,http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
+CombatGo,https://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
+
+INDIA-B4U-MUSIC,http://161.0.157.5/PLTV/88888888/224/3221226332/01.m3u8
+INDIA-B4U-MOVIE,http://161.0.157.5/PLTV/88888888/224/3221226255/01.m3u8
+
+M+MTV,http://161.0.157.5/PLTV/88888888/224/3221226847/01.m3u8
+
+Flow-Sport,http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
 
 全美TV,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/index_150_av-p.m3u8?sd=6&rebase=on
 
@@ -124,6 +145,7 @@ CNN,http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 
 金鹰纪实HD,http://112.50.243.7/PLTV/88888888/224/3221226613/index.m3u8
 
+广东卫视HD,http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8
 广东综艺频道4K,http://stream1.grtn.cn/4K/sd/live.m3u8
 
 都市剧场,http://weblive.hebtv.com/live/Asianaction/index.m3u8
