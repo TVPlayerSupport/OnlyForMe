@@ -71,8 +71,88 @@ Music-Choice-Musica-Urbana,https://edge.music-choice-vc-chainb1.top.comcast.net/
 Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
 
 ################################
-  Updated-on-November 16, 2018
+  Updated-on-November 17, 2018
 ################################
+
+181 Fm Beatles,http://listen.181fm.com/181-beatles_128k.mp3?          
+181 Fm Soul,http://listen.181fm.com/181-soul_128k.mp3?             
+181 Fm Mellow Gold,http://listen.181fm.com/181-mellow_128k.mp3?           
+181 Fm Classic Hits 181,http://listen.181fm.com/181-greatoldies_128k.mp3?      
+181 Fm Good Time Oldies,http://listen.181fm.com/181-goodtime_128k.mp3?         
+181 Fm Super 70s,http://listen.181fm.com/181-70s_128k.mp3?              
+181 Fm 80s Country,http://listen.181fm.com/181-80scountry_128k.mp3?       
+181 Fm Awesome 80s,http://listen.181fm.com/181-awesome80s_128k.mp3?       
+181 Fm Lite 80s,http://listen.181fm.com/181-lite80s_128k.mp3?          
+181 Fm Star 90s,http://listen.181fm.com/181-star90s_128k.mp3?          
+181 Fm 90s Country,http://listen.181fm.com/181-90scountry_128k.mp3?       
+181 Fm Lite 90s,http://listen.181fm.com/181-lite90s_128k.mp3?          
+181 Fm 90s Alternative,http://listen.181fm.com/181-90salt_128k.mp3?           
+181 Fm 90s Dance,http://listen.181fm.com/181-90sdance_128k.mp3?         
+181 Fm Power 181 (Top 40),http://listen.181fm.com/181-power_128k.mp3?            
+181 Fm Old School HipHop/RnB,http://listen.181fm.com/181-oldschool_128k.mp3?        
+181 Fm UK top 40,http://listen.181fm.com/181-uktop40_128k.mp3?          
+181 Fm The Vibe of Vegas,http://listen.181fm.com/181-vibe_128k.mp3?             
+181 Fm The Heart (Love Songs),http://listen.181fm.com/181-heart_128k.mp3?            
+181 Fm Smooth AC,http://listen.181fm.com/181-smoothac_128k.mp3?         
+181 Fm The Office,http://listen.181fm.com/181-office_128k.mp3?           
+181 Fm The Mix,http://listen.181fm.com/181-themix_128k.mp3?           
+181 Fm The Point,http://listen.181fm.com/181-thepoint_128k.mp3?         
+181 Fm Party 181,http://listen.181fm.com/181-party_128k.mp3?            
+181 Fm The Buzz (Alt. Rock),http://listen.181fm.com/181-buzz_128k.mp3?             
+181 Fm Classic Buzz (Alt),http://listen.181fm.com/181-classicbuzz_128k.mp3?      
+181 Fm The Rock! (Hard Rock),http://listen.181fm.com/181-hardrock_128k.mp3?         
+181 Fm The Rock 181,http://listen.181fm.com/181-rock_128k.mp3?             
+181 Fm Chloe @181.FM,http://listen.181fm.com/181-chloe_128k.mp3?            
+181 Fm The Eagle (Classic),http://listen.181fm.com/181-eagle_128k.mp3?            
+181 Fm Rock 40 (Rock & Roll),http://listen.181fm.com/181-rock40_128k.mp3?           
+181 Fm 80's Hairband,http://listen.181fm.com/181-hairband_128k.mp3?         
+181 Fm Kickin' Country,http://listen.181fm.com/181-kickincountry_128k.mp3?    
+181 Fm Real Country,http://listen.181fm.com/181-realcountry_128k.mp3?      
+181 Fm US 181,http://listen.181fm.com/181-us181_128k.mp3?            
+181 Fm Highway 181,http://listen.181fm.com/181-highway_128k.mp3?          
+181 Fm Front Porch (Bluegrass),http://listen.181fm.com/181-frontporch_128k.mp3?       
+181 Fm The Beat (HipHop/R&B),http://listen.181fm.com/181-beat_128k.mp3?             
+181 Fm True R&B,http://listen.181fm.com/181-rnb_128k.mp3?              
+181 Fm The Box (Urban),http://listen.181fm.com/181-thebox_128k.mp3?           
+181 Fm Jammin 181,http://listen.181fm.com/181-jammin_128k.mp3?           
+181 Fm Soul,http://listen.181fm.com/181-soul_128k.mp3?             
+181 Fm Halloween,http://listen.181fm.com/181-halloween_128k.mp3?        
+181 Fm Energy 98,http://listen.181fm.com/181-energy98_128k.mp3?         
+181 Fm Energy 93 (Euro EDM),http://listen.181fm.com/181-energy93_128k.mp3?         
+181 Fm Studio 181,http://listen.181fm.com/181-ball_128k.mp3?             
+181 Fm Chilled Out,http://listen.181fm.com/181-chilled_128k.mp3?          
+181 Fm The Breeze,http://listen.181fm.com/181-breeze_128k.mp3?           
+181 Fm Classical Guitar,http://listen.181fm.com/181-classicalguitar_128k.mp3?  
+181 Fm Classical Jazz,http://listen.181fm.com/181-classicaljazz_128k.mp3?    
+181 Fm Vocal Jazz,http://listen.181fm.com/181-vocals_128k.mp3?           
+181 Fm BeBop Jazz,http://listen.181fm.com/181-bebop_128k.mp3?            
+181 Fm Sensual World,http://listen.181fm.com/181-sensual_128k.mp3?          
+181 Fm Fusion Jazz,http://listen.181fm.com/181-fusionjazz_128k.mp3?       
+181 Fm Trance Jazz,http://listen.181fm.com/181-trancejazz_128k.mp3?       
+181 Fm True Blues,http://listen.181fm.com/181-blues_128k.mp3?            
+181 Fm Classical Music,http://listen.181fm.com/181-classical_128k.mp3?        
+181 Fm Acid Jazz,http://listen.181fm.com/181-acidjazz_128k.mp3?         
+181 Fm Christmas Kountry,http://listen.181fm.com/181-xkkountry_128k.mp3?        
+181 Fm Christmas Classics,http://listen.181fm.com/181-xtraditional_128k.mp3?     
+181 Fm Christmas Christmas Oldies,http://listen.181fm.com/181-xoldies_128k.mp3?          
+181 Fm Christmas Country,http://listen.181fm.com/181-xcountry_128k.mp3?         
+181 Fm Christmas Power,http://listen.181fm.com/181-xpower_128k.mp3?           
+181 Fm Christmas Highway,http://listen.181fm.com/181-xhighway_128k.mp3?         
+181 Fm Christmas Soundtracks,http://listen.181fm.com/181-xsoundtrax_128k.mp3?       
+181 Fm Christmas R&B,http://listen.181fm.com/181-xtrue_128k.mp3?            
+181 Fm Christmas Rock,http://listen.181fm.com/181-xrock_128k.mp3?            
+181 Fm Christmas Mix,http://listen.181fm.com/181-xmix_128k.mp3?             
+181 Fm Christmas Fun,http://listen.181fm.com/181-xfun_128k.mp3?             
+181 Fm Christmas Kids,http://listen.181fm.com/181-xkids_128k.mp3?            
+181 Fm Christmas Blender,http://listen.181fm.com/181-xblender_128k.mp3?         
+181 Fm Christmas Standards,http://listen.181fm.com/181-xstandards_128k.mp3?       
+181 Fm Christmas Spirit,http://listen.181fm.com/181-xspirit_128k.mp3?               
+181 Fm Christmas Smooth Jazz,http://listen.181fm.com/181-xsmooth_128k.mp3?          
+181 Fm Christmas Gospel,http://listen.181fm.com/181-xgospel_128k.mp3?          
+181 Fm Christmas Swing,http://listen.181fm.com/181-xswing_128k.mp3? 
+
+
+111Tv,http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/index_150_av-p.m3u8?sd=6&rebase=on
 
 CNN,https://1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 CNN,https://1828529515.rsc.cdn77.org/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
