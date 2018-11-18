@@ -101,7 +101,7 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年11月17日                &&&&&&&&&&
+&&&&&&&&&&            2018年11月18日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -113,7 +113,28 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 ====新增源地址专用段====,*
 
+广东高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225811/2.m3u8
+辽宁高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225818/2.m3u8
+湖北高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225764/2.m3u8
+山东高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225763/2.m3u8
+北京高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225762/2.m3u8
+深圳高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225760/2.m3u8
+湖南高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225759/2.m3u8
+黑龙江高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225757/2.m3u8
+浙江高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225755/2.m3u8
+天津高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225788/2.m3u8
+江西高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225787/2.m3u8
+东南高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225785/2.m3u8
+安徽高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225784/2.m3u8
+江苏高清卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225847/index.m3u8
+东方高清卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8
 
+高清翡翠台,http://123.207.42.38/tvb.php?type=jade
+
+好莱坞中文卫视,http://10505.liveplay.myqcloud.com/live/10505_a1619dd9836811e791eae435c87f075e_550.m3u8
+科幻电影,http://tx.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1.m3u8
+惊悚电影,http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
+怪物科幻,http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8
 
 181 Fm Beatles,http://listen.181fm.com/181-beatles_128k.mp3?          
 181 Fm Soul,http://listen.181fm.com/181-soul_128k.mp3?             
