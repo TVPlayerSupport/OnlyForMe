@@ -101,7 +101,7 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年11月19日                &&&&&&&&&&
+&&&&&&&&&&            2018年11月20日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -113,10 +113,51 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 ====新增源地址专用段====,*
 
-Miami-TV18+,http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+hr,http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on
 
+BBC World News,https://5b8ec3e62bc9e.streamlock.net:7077/live/bbc/chunklist_w884220676_DVR.m3u8
+
+CNN International,https:/1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+CNN,https://1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+CNN,https://1828529515.rsc.cdn77.org/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
+CNN,https://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+CNN,http://1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+CNN,http://1828529515.rsc.cdn77.org/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
+CNN,http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 CNN-News-18-India,https://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5_av-p.m3u8?:CNN News 18 India
 
+FOX-news,https://1028107998.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+FOX-news,https://1875856221.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
+
+FOX-news,http://1028107998.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+FOX-news,http://1875856221.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
+FOX-CINEMA,http://161.0.157.5/PLTV/88888888/224/3221226793/01.m3u8
+  
+Deutsche Welle English,https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8?sd=10&rebase=on   
+Deutsche Welle Spain,https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on   
+Deutsche Welle Deutsch Kultur. 21,https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8?sd=10&rebase=on   
+Deutsche Welle Arabic,https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8?sd=10&rebase=on    
+
+Sky News Uk,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+Sky Tg24 Italy,http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+Sky Tg24 Italy,https://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+Sky News Arabia,https://stream.skynewsarabia.com/hls/sna_720.m3u8
+Sky News Arabia,http://stream.skynewsarabia.com/hls/sna_720.m3u8
+
+CMCUSA加州音悦台,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/chunklist.m3u8
+ZEETV,http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
+Flix HD,http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+NexTV,http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+WGN9 Chicago,http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+Russia Mir 24,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+Russia Mir,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+Miami-TV18+,http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+
+
+湖南卫视Ｈ,http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
 
 广东高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225811/2.m3u8
 辽宁高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225818/2.m3u8
@@ -143,20 +184,6 @@ CNN-News-18-India,https://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/i
 
 111Tv,http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/index_150_av-p.m3u8?sd=6&rebase=on
 
-
-CNN,https://1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-CNN,https://1828529515.rsc.cdn77.org/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
-CNN,https://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-CNN,http://1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-CNN,http://1828529515.rsc.cdn77.org/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
-CNN,http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-
-FOX-news,https://1028107998.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-FOX-news,https://1875856221.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
-
-FOX-news,http://1028107998.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-FOX-news,http://1875856221.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
-FOX-CINEMA,http://161.0.157.5/PLTV/88888888/224/3221226793/01.m3u8
 
 HBO2,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 

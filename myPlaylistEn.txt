@@ -71,7 +71,7 @@ Music-Choice-Musica-Urbana,https://edge.music-choice-vc-chainb1.top.comcast.net/
 Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
 
 ################################
-  Updated-on-November 19, 2018
+  Updated-on-November 20, 2018
 ################################
 
 
@@ -79,13 +79,18 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 Miami-TV18+,http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
-CNN-News-18-India,https://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5_av-p.m3u8?:CNN News 18 India
+hr,http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on
+
+BBC World News,https://5b8ec3e62bc9e.streamlock.net:7077/live/bbc/chunklist_w884220676_DVR.m3u8
+
+CNN International,https:/1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 CNN,https://1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 CNN,https://1828529515.rsc.cdn77.org/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
 CNN,https://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 CNN,http://1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 CNN,http://1828529515.rsc.cdn77.org/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
 CNN,http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+CNN-News-18-India,https://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5_av-p.m3u8?:CNN News 18 India
 
 FOX-news,https://1028107998.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 FOX-news,https://1875856221.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
