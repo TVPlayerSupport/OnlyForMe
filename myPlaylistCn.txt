@@ -101,7 +101,7 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年11月20日                &&&&&&&&&&
+&&&&&&&&&&            2018年11月21日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -112,6 +112,10 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 
 ====新增源地址专用段====,*
+
+Heavy-Metal-Tv,http://autopilot.myowntv.org/content/33816/index.m3u8
+
+Hollywood好莱坞HD,http://108.160.136.123/live.m3u8?ch=tuqUUxhFDZ&str=ce31c173b777806fa60db35130d61e6e&e=1542708440000
 
 hr,http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on
 
