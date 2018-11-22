@@ -71,12 +71,10 @@ Music-Choice-Musica-Urbana,https://edge.music-choice-vc-chainb1.top.comcast.net/
 Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
 
 ################################
-  Updated-on-November 21, 2018
+  Updated-on-November 22, 2018
 ################################
 
 Heavy-Metal-Tv,http://autopilot.myowntv.org/content/33816/index.m3u8
-
-Hollywood-HD,http://108.160.136.123/live.m3u8?ch=tuqUUxhFDZ&str=ce31c173b777806fa60db35130d61e6e&e=1542708440000
 
 
 111Tv,http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/index_150_av-p.m3u8?sd=6&rebase=on

@@ -101,7 +101,7 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年11月21日                &&&&&&&&&&
+&&&&&&&&&&            2018年11月22日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -113,9 +113,27 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 ====新增源地址专用段====,*
 
-Heavy-Metal-Tv,http://autopilot.myowntv.org/content/33816/index.m3u8
+广州新闻频道,https://23436.liveplay.myqcloud.com/live/23436_e2fd8e1e7e7111e892905cb9018cf0d4.m3u8
+广州综合频道,https://23436.liveplay.myqcloud.com/live/23436_dc2089877e7111e892905cb9018cf0d4.m3u8
+广州经济频道,https://23436.liveplay.myqcloud.com/live/23436_9a1e9e7a84b211e892905cb9018cf0d4.m3u8
+广州竞赛频道,https://23436.liveplay.myqcloud.com/live/23436_e821bfc784b111e892905cb9018cf0d4.m3u8
+广州影视频道,https://23436.liveplay.myqcloud.com/live/23436_8a1764ff84b211e892905cb9018cf0d4.m3u8
+广州少儿频道,https://23436.liveplay.myqcloud.com/live/23436_b2eb109d84b211e892905cb9018cf0d4.m3u8
+广州生活频道,https://23436.liveplay.myqcloud.com/live/23436_5fe853ef84b211e892905cb9018cf0d4.m3u8
 
-Hollywood好莱坞HD,http://108.160.136.123/live.m3u8?ch=tuqUUxhFDZ&str=ce31c173b777806fa60db35130d61e6e&e=1542708440000
+珠江频道,http://nclive.grtn.cn/zjpd/sd/live.m3u8
+广东公共频道,http://nclive.grtn.cn/ggpd/sd/live.m3u8
+广东新闻频道,http://nclive.grtn.cn/xwpd/sd/live.m3u8
+广东房产频道,http://nclive.grtn.cn/fcpd/sd/live.m3u8
+嘉佳卡通频道,http://nclive.grtn.cn/jjkt/sd/live.m3u8
+广东国际频道,http://nclive.grtn.cn/gjpd/sd/live.m3u8
+南方购物频道,http://nclive.grtn.cn/nfgw/sd/live.m3u8
+高尔夫频道,http://nclive.grtn.cn/grfpd/sd/live.m3u8
+广东经济科教频道,http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
+广东影视频道,http://nclive.grtn.cn/tvs4/sd/live.m3u8
+广东少儿频道,http://nclive.grtn.cn/tvs5/sd/live.m3u8
+
+Heavy-Metal-Tv,http://autopilot.myowntv.org/content/33816/index.m3u8
 
 hr,http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on
 
