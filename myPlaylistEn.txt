@@ -71,8 +71,32 @@ Music-Choice-Musica-Urbana,https://edge.music-choice-vc-chainb1.top.comcast.net/
 Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
 
 ################################
-  Updated-on-November 22, 2018
+  Updated-on-November 23, 2018
 ################################
+
+Animal Planet HD,http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
+
+Sport ASTRO ARENA,http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+
+Movie HBO HD,http://210.210.155.35/uq2663/h/h231/01.m3u8
+Movie Fox Movies HD,http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+Movie AXN HD,http://210.210.155.35/dr9445/h/h141/01.m3u8
+Movie AndFlix HD,http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+Movie AndPic HD,http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+Movie Sony Movie Channel,http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+Movie THRILL,http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+Movie WB,http://210.210.155.35/uq2663/h/h233/01.m3u8
+Movie KIX,http://210.210.155.35/uq2663/h/h07/01.m3u8
+Movie Celestial,http://210.210.155.35/qwr9ew/s/s33/01.m3u8  
+
+Kids ANIPLUS,http://210.210.155.35/dr9445/h/h02/01.m3u8
+Kids ANIMAX,http://210.210.155.35/dr9445/h/h144/01.m3u8
+
+News SKY News,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+News ABC News,https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+News DW,https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+News NHK World,https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+News Bloomberg,https://bblive-liveprodapnortheast.hs.llnwd.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
 Heavy-Metal-Tv,http://autopilot.myowntv.org/content/33816/index.m3u8
 
