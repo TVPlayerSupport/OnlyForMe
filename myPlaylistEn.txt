@@ -10,10 +10,10 @@
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
-IPTV-Player-INDIA-Zoomhttp://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
-IPTV-Player-INDIA-Zoomhttps://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
-IPTV-Player-INDIA-Zoomhttp://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
-IPTV-Player-INDIA-Zoomhttps://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+IPTV-Player-INDIA-Zoom,http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+IPTV-Player-INDIA-Zoom,https://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+IPTV-Player-INDIA-Zoom,http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+IPTV-Player-INDIA-Zoom,https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 
 IPTV-Player-Capital-TVhttp://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
@@ -65,8 +65,15 @@ Music-Choice-Musica-Urbana,https://edge.music-choice-vc-chainb1.top.comcast.net/
 Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
 
 ################################
-  Updated-on-November 24, 2018
+  Updated-on-November 26, 2018
 ################################
+
+HBO s2,http://iptv-nl3-qscdn.hdflixtv.com/VN-HBO-HD/tracks-v1a1/mono.m3u8
+MAX s2,http://iptv-nl3-qscdn.hdflixtv.com/VN-Cinemax/tracks-v1a1/mono.m3u8
+AXN s2,http://iptv-nl3-qscdn.hdflixtv.com/VN-AXN-HD/tracks-v1a1/mono.m3u8
+AXN,http://iptv-nl3-qscdn.hdflixtv.com:80/VN-AXN/index.m3u8
+Fox Movies HD,http://iptv-nl3-qscdn.hdflixtv.com:80/VN-FOX-Movies-HD/index.m3u8
+Fox Life HD,http://iptv-nl3-qscdn.hdflixtv.com:80/VN-FOX-LIFE/index.m3u8
 
 Animal Planet HD,http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
 

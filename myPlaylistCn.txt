@@ -35,10 +35,10 @@ https://tvplayersupport.github.io/TVPlayerSupport/
    以下为第1个源
 &&&&&&&&&&&&&&&&&&&
 
-IPTV网络电视播放器-INDIA-Zoomhttp://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
-IPTV网络电视播放器-INDIA-Zoomhttps://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
-IPTV网络电视播放器-Zoomhttp://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
-IPTV网络电视播放器-Zoomhttps://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+IPTV网络电视播放器-INDIA-Zoom,http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+IPTV网络电视播放器-INDIA-Zoom,https://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+IPTV网络电视播放器-Zoom,http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+IPTV网络电视播放器-Zoom,https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 
 IPTV网络电视播放器-Capital-TVhttp://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 
@@ -95,7 +95,7 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年11月24日                &&&&&&&&&&
+&&&&&&&&&&            2018年11月26日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -106,6 +106,63 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 
 ====新增源地址专用段====,*
+
+HBO s2,http://iptv-nl3-qscdn.hdflixtv.com/VN-HBO-HD/tracks-v1a1/mono.m3u8
+MAX s2,http://iptv-nl3-qscdn.hdflixtv.com/VN-Cinemax/tracks-v1a1/mono.m3u8
+AXN s2,http://iptv-nl3-qscdn.hdflixtv.com/VN-AXN-HD/tracks-v1a1/mono.m3u8
+AXN,http://iptv-nl3-qscdn.hdflixtv.com:80/VN-AXN/index.m3u8
+Fox Movies HD,http://iptv-nl3-qscdn.hdflixtv.com:80/VN-FOX-Movies-HD/index.m3u8
+Fox Life HD,http://iptv-nl3-qscdn.hdflixtv.com:80/VN-FOX-LIFE/index.m3u8
+
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s02/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s04/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s05/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s06/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s07/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s08/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s09/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s10/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s11/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s12/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s13/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s14/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s15/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s16/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s17/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s18/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s19/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s20/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s21/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s22/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s23/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s24/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s25/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s26/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s27/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s28/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s29/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s30/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s31/01.m3u8
+
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s32/01.m3u8
+
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s34/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s35/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s36/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s37/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s38/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s39/01.m3u8
+
+中国交通,http://tv.cctbn.com/zgjt/beijing.m3u8?auth_key=1701185783-0-0-e36f09598d451ea4440bbd83411e7fd5
+中国交通湖北,http://tv.cctbn.com/zgjt/zgjthb.m3u8?auth_key=1893430861-0-0-f7357974c29e0b417e899dc47121337c
+中国交通安徽 http://tv.cctbn.com/zgjt/zgjtah.m3u8?auth_key=1893430861-0-0-d46bdf4ba08863c373461a56e8057d56
+中国交通广东,http://tv.cctbn.com/zgjt/guangdong.m3u8?auth_key=1702308830-0-0-854e4aa4e2406babb3546732b7154068
+中国交通河北,http://17604.liveplay.myqcloud.com/live/17604_989cabaf1c2511e892905cb9018cf0d4.m3u8
+中国交通贵州,http://tv.cctbn.com/zgjt/guizhou.m3u8?auth_key=1703849327-0-0-9b0d42d5eeb39e42312eca2db35f2439
+中国交通吉林,http://tv.cctbn.com/zgjt/jilin.m3u8?auth_key=1713181117-0-0-17fee180d6654d7dd9cf856e1e98975a
+中国交通潍坊,http://tv.cctbn.com/zgjt/weifang.m3u8?auth_key=1712921647-0-0-62b0b6abae36bd2d4a4e7ce92944cb94
 
 Animal Planet HD,http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
 
