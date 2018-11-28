@@ -1,7 +1,6 @@
 
 
 
-
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 欢迎邮件联系：yu_tian_jian@163.com
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
@@ -62,40 +61,13 @@ Relaxation-Цветы,https://live-stack.cdnvideo.ru/hls/5a8e9157e563f20a4fc0a2c
 
 
 Music-Choice,http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-Music-Choice-Hit,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC100/chunklist.m3u8
-Music-Choice-Hip-Hop-And-R&B,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC106/chunklist.m3u8
-Music-Choice-Teen-Beats,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC118/chunklist.m3u8
-Music-Choice-Today,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC121/chunklist.m3u8
-Music-Choice-Brits+Hits,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC122/chunklist.m3u8
-Music-Choice-Pop-Latino,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC123/chunklist.m3u8
-Music-Choice-R&B-Soul,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC124/chunklist.m3u8
-Music-Choice-Rap,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC125/chunklist.m3u8
-Music-Choice-Dance,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC127/chunklist.m3u8
-Music-Choice-Musica-Urbana,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC128/chunklist.m3u8
-Music-Choice-Indie,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
-
-
-
 Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-Music-Choice-Hit,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC100/chunklist.m3u8
-Music-Choice-Hip-Hop-And-R&B,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC106/chunklist.m3u8
-Music-Choice-Teen-Beats,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC118/chunklist.m3u8
-Music-Choice-Today,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC121/chunklist.m3u8
-Music-Choice-Brits+Hits,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC122/chunklist.m3u8
-Music-Choice-Pop-Latino,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC123/chunklist.m3u8
-Music-Choice-R&B-Soul,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC124/chunklist.m3u8
-Music-Choice-Rap,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC125/chunklist.m3u8
-Music-Choice-Dance,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC127/chunklist.m3u8
-Music-Choice-Musica-Urbana,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC128/chunklist.m3u8
-Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
 
 
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年11月26日                &&&&&&&&&&
+&&&&&&&&&&            2018年11月28日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -107,159 +79,17 @@ Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoCha
 
 ====新增源地址专用段====,*
 
-HBO s2,http://iptv-nl3-qscdn.hdflixtv.com/VN-HBO-HD/tracks-v1a1/mono.m3u8
-MAX s2,http://iptv-nl3-qscdn.hdflixtv.com/VN-Cinemax/tracks-v1a1/mono.m3u8
-AXN s2,http://iptv-nl3-qscdn.hdflixtv.com/VN-AXN-HD/tracks-v1a1/mono.m3u8
-AXN,http://iptv-nl3-qscdn.hdflixtv.com:80/VN-AXN/index.m3u8
-Fox Movies HD,http://iptv-nl3-qscdn.hdflixtv.com:80/VN-FOX-Movies-HD/index.m3u8
-Fox Life HD,http://iptv-nl3-qscdn.hdflixtv.com:80/VN-FOX-LIFE/index.m3u8
-
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s02/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s03/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s04/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s05/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s06/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s07/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s08/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s09/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s10/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s11/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s12/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s13/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s14/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s15/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s16/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s17/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s18/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s19/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s20/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s21/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s22/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s23/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s24/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s25/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s26/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s27/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s28/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s29/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s30/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s31/01.m3u8
-
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s32/01.m3u8
-
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s34/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s35/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s36/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s37/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s38/01.m3u8
-Celestial-Movies,http://45.126.83.51/qwr9ew/s/s39/01.m3u8
-
-中国交通,http://tv.cctbn.com/zgjt/beijing.m3u8?auth_key=1701185783-0-0-e36f09598d451ea4440bbd83411e7fd5
-中国交通湖北,http://tv.cctbn.com/zgjt/zgjthb.m3u8?auth_key=1893430861-0-0-f7357974c29e0b417e899dc47121337c
-中国交通安徽 http://tv.cctbn.com/zgjt/zgjtah.m3u8?auth_key=1893430861-0-0-d46bdf4ba08863c373461a56e8057d56
-中国交通广东,http://tv.cctbn.com/zgjt/guangdong.m3u8?auth_key=1702308830-0-0-854e4aa4e2406babb3546732b7154068
-中国交通河北,http://17604.liveplay.myqcloud.com/live/17604_989cabaf1c2511e892905cb9018cf0d4.m3u8
-中国交通贵州,http://tv.cctbn.com/zgjt/guizhou.m3u8?auth_key=1703849327-0-0-9b0d42d5eeb39e42312eca2db35f2439
-中国交通吉林,http://tv.cctbn.com/zgjt/jilin.m3u8?auth_key=1713181117-0-0-17fee180d6654d7dd9cf856e1e98975a
-中国交通潍坊,http://tv.cctbn.com/zgjt/weifang.m3u8?auth_key=1712921647-0-0-62b0b6abae36bd2d4a4e7ce92944cb94
-
 Animal Planet HD,http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
 
 Sport ASTRO ARENA,http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
-Movie HBO HD,http://210.210.155.35/uq2663/h/h231/01.m3u8
-Movie Fox Movies HD,http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
-Movie AXN HD,http://210.210.155.35/dr9445/h/h141/01.m3u8
-Movie AndFlix HD,http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-Movie AndPic HD,http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-Movie Sony Movie Channel,http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
-Movie THRILL,http://210.210.155.35/qwr9ew/s/s34/01.m3u8
-Movie WB,http://210.210.155.35/uq2663/h/h233/01.m3u8
-Movie KIX,http://210.210.155.35/uq2663/h/h07/01.m3u8
-Movie Celestial,http://210.210.155.35/qwr9ew/s/s33/01.m3u8  
 
-Kids ANIPLUS,http://210.210.155.35/dr9445/h/h02/01.m3u8
-Kids ANIMAX,http://210.210.155.35/dr9445/h/h144/01.m3u8
-
-News SKY News,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-News ABC News,https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-News DW,https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-News NHK World,https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-News Bloomberg,https://bblive-liveprodapnortheast.hs.llnwd.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-
-
-CCTV1HD,http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221225829/1.m3u8
-
-苏州联通标清CCTV1,http://221.6.85.150:9000/live/cctv1_800/cctv1_800.m3u8
-苏州联通标清CCTV2,http://221.6.85.150:9000/live/cctv2_800/cctv2_800.m3u8
-苏州联通标清CCTV3,http://221.6.85.150:9000/live/cctv3_800/cctv3_800.m3u8
-苏州联通标清CCTV4,http://221.6.85.150:9000/live/cctv4_800/cctv4_800.m3u8
-苏州联通标清CCTV5,http://221.6.85.150:9000/live/cctv5_800/cctv5_800.m3u8
-苏州联通标清CCTV6,http://221.6.85.150:9000/live/cctv6_800/cctv6_800.m3u8
-苏州联通标清CCTV7,http://221.6.85.150:9000/live/cctv7_800/cctv7_800.m3u8
-苏州联通标清CCTV8,http://221.6.85.150:9000/live/cctv8_800/cctv8_800.m3u8
-苏州联通标清CCTV9,http://221.6.85.150:9000/live/cctv9_800/cctv9_800.m3u8
-苏州联通标清CCTV10,http://221.6.85.150:9000/live/cctv10_800/cctv10_800.m3u8
-苏州联通标清CCTV11,http://221.6.85.150:9000/live/cctv11_800/cctv11_800.m3u8
-苏州联通标清CCTV12,http://221.6.85.150:9000/live/cctv12_800/cctv12_800.m3u8
-苏州联通标清CCTV13,http://221.6.85.150:9000/live/cctv13_800/cctv13_800.m3u8
-苏州联通标清CCTV14,http://221.6.85.150:9000/live/cctv14_800/cctv14_800.m3u8
-苏州联通标清CCTV15,http://221.6.85.150:9000/live/cctv15_800/cctv15_800.m3u8
-
-
-广州新闻频道,https://23436.liveplay.myqcloud.com/live/23436_e2fd8e1e7e7111e892905cb9018cf0d4.m3u8
-广州综合频道,https://23436.liveplay.myqcloud.com/live/23436_dc2089877e7111e892905cb9018cf0d4.m3u8
-广州经济频道,https://23436.liveplay.myqcloud.com/live/23436_9a1e9e7a84b211e892905cb9018cf0d4.m3u8
-广州竞赛频道,https://23436.liveplay.myqcloud.com/live/23436_e821bfc784b111e892905cb9018cf0d4.m3u8
-广州影视频道,https://23436.liveplay.myqcloud.com/live/23436_8a1764ff84b211e892905cb9018cf0d4.m3u8
-广州少儿频道,https://23436.liveplay.myqcloud.com/live/23436_b2eb109d84b211e892905cb9018cf0d4.m3u8
-广州生活频道,https://23436.liveplay.myqcloud.com/live/23436_5fe853ef84b211e892905cb9018cf0d4.m3u8
-
-珠江频道,http://nclive.grtn.cn/zjpd/sd/live.m3u8
-广东公共频道,http://nclive.grtn.cn/ggpd/sd/live.m3u8
-广东新闻频道,http://nclive.grtn.cn/xwpd/sd/live.m3u8
-广东房产频道,http://nclive.grtn.cn/fcpd/sd/live.m3u8
-嘉佳卡通频道,http://nclive.grtn.cn/jjkt/sd/live.m3u8
-广东国际频道,http://nclive.grtn.cn/gjpd/sd/live.m3u8
-南方购物频道,http://nclive.grtn.cn/nfgw/sd/live.m3u8
-高尔夫频道,http://nclive.grtn.cn/grfpd/sd/live.m3u8
-广东经济科教频道,http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
-广东影视频道,http://nclive.grtn.cn/tvs4/sd/live.m3u8
-广东少儿频道,http://nclive.grtn.cn/tvs5/sd/live.m3u8
-
+Heavy-Metal-Television,http://72.194.152.134:1935/hmtv/myStream/chunklist.m3u8
 Heavy-Metal-Tv,http://autopilot.myowntv.org/content/33816/index.m3u8
 
 hr,http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on
 
-BBC World News,https://5b8ec3e62bc9e.streamlock.net:7077/live/bbc/chunklist_w884220676_DVR.m3u8
 
-CNN International,https:/1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-CNN,https://1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-CNN,https://1828529515.rsc.cdn77.org/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
-CNN,https://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-CNN,http://1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-CNN,http://1828529515.rsc.cdn77.org/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
-CNN,http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-CNN-News-18-India,https://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5_av-p.m3u8?:CNN News 18 India
-
-FOX-news,https://1028107998.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-FOX-news,https://1875856221.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
-
-FOX-news,http://1028107998.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-FOX-news,http://1875856221.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
-FOX-CINEMA,http://161.0.157.5/PLTV/88888888/224/3221226793/01.m3u8
-  
-Deutsche Welle English,https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8?sd=10&rebase=on   
-Deutsche Welle Spain,https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on   
-Deutsche Welle Deutsch Kultur. 21,https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8?sd=10&rebase=on   
-Deutsche Welle Arabic,https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8?sd=10&rebase=on    
-
-Sky News Uk,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-Sky Tg24 Italy,http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
-Sky Tg24 Italy,https://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
-Sky News Arabia,https://stream.skynewsarabia.com/hls/sna_720.m3u8
-Sky News Arabia,http://stream.skynewsarabia.com/hls/sna_720.m3u8
 
 CMCUSA加州音悦台,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/chunklist.m3u8
 ZEETV,http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
@@ -330,6 +160,101 @@ Flow-Sport,http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
 
 
 ====以上为新增源地址====
+
+
+====News&Movies====,*
+
+News SKY News,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+News ABC News,https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+News DW,https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+News NHK World,https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+News Bloomberg,https://bblive-liveprodapnortheast.hs.llnwd.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+BBC World News,https://5b8ec3e62bc9e.streamlock.net:7077/live/bbc/chunklist_w884220676_DVR.m3u8
+
+CNN International,https:/1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+CNN,https://1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+CNN,https://1828529515.rsc.cdn77.org/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
+CNN,https://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+CNN,http://1861340594.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+CNN,http://1828529515.rsc.cdn77.org/LS-ATL-54548-9/tracks-v2a1/mono.m3u8
+CNN,http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+CNN-News-18-India,https://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5_av-p.m3u8?:CNN News 18 India
+
+FOX-news,https://1028107998.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+FOX-news,https://1875856221.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
+
+FOX-news,http://1028107998.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+FOX-news,http://1875856221.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
+FOX-CINEMA,http://161.0.157.5/PLTV/88888888/224/3221226793/01.m3u8
+  
+Deutsche Welle English,https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8?sd=10&rebase=on   
+Deutsche Welle Spain,https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on   
+Deutsche Welle Deutsch Kultur. 21,https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8?sd=10&rebase=on   
+Deutsche Welle Arabic,https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8?sd=10&rebase=on    
+
+Sky News Uk,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+Sky Tg24 Italy,http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+Sky Tg24 Italy,https://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+Sky News Arabia,https://stream.skynewsarabia.com/hls/sna_720.m3u8
+Sky News Arabia,http://stream.skynewsarabia.com/hls/sna_720.m3u8
+
+Movie-Fox-Movies-HD,http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+Movie-AndFlix-HD,http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+Movie-AndPic-HD,http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+Movie-Sony-Movie-Channel,http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+Movie-THRILL,http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+Movie-WB,http://210.210.155.35/uq2663/h/h233/01.m3u8
+Movie-KIX,http://210.210.155.35/uq2663/h/h07/01.m3u8
+Movie-Celestial,http://210.210.155.35/qwr9ew/s/s33/01.m3u8  
+
+Kids ANIPLUS,http://210.210.155.35/dr9445/h/h02/01.m3u8
+Kids ANIMAX,http://210.210.155.35/dr9445/h/h144/01.m3u8
+
+MAX s2,http://iptv-nl3-qscdn.hdflixtv.com/VN-Cinemax/tracks-v1a1/mono.m3u8
+AXN,http://iptv-nl3-qscdn.hdflixtv.com:80/VN-AXN/index.m3u8
+Fox-Life-HD,http://iptv-nl3-qscdn.hdflixtv.com:80/VN-FOX-LIFE/index.m3u8
+
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s02/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s04/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s05/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s06/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s07/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s08/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s09/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s10/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s11/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s12/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s13/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s14/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s15/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s16/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s17/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s18/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s19/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s20/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s21/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s22/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s23/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s24/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s25/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s26/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s27/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s28/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s29/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s30/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s31/01.m3u8
+
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s32/01.m3u8
+
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s34/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s35/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s36/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s37/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s38/01.m3u8
+Celestial-Movies,http://45.126.83.51/qwr9ew/s/s39/01.m3u8
 
 
 ====延禧攻略====,*
@@ -2641,6 +2566,26 @@ BTV纪实(1920),http://223.110.243.155:80/PLTV/3/224/3221227397/1.m3u8
 
 
 ====省市地方====,*
+
+广州新闻频道,https://23436.liveplay.myqcloud.com/live/23436_e2fd8e1e7e7111e892905cb9018cf0d4.m3u8
+广州综合频道,https://23436.liveplay.myqcloud.com/live/23436_dc2089877e7111e892905cb9018cf0d4.m3u8
+广州经济频道,https://23436.liveplay.myqcloud.com/live/23436_9a1e9e7a84b211e892905cb9018cf0d4.m3u8
+广州竞赛频道,https://23436.liveplay.myqcloud.com/live/23436_e821bfc784b111e892905cb9018cf0d4.m3u8
+广州影视频道,https://23436.liveplay.myqcloud.com/live/23436_8a1764ff84b211e892905cb9018cf0d4.m3u8
+广州少儿频道,https://23436.liveplay.myqcloud.com/live/23436_b2eb109d84b211e892905cb9018cf0d4.m3u8
+广州生活频道,https://23436.liveplay.myqcloud.com/live/23436_5fe853ef84b211e892905cb9018cf0d4.m3u8
+
+珠江频道,http://nclive.grtn.cn/zjpd/sd/live.m3u8
+广东公共频道,http://nclive.grtn.cn/ggpd/sd/live.m3u8
+广东新闻频道,http://nclive.grtn.cn/xwpd/sd/live.m3u8
+广东房产频道,http://nclive.grtn.cn/fcpd/sd/live.m3u8
+嘉佳卡通频道,http://nclive.grtn.cn/jjkt/sd/live.m3u8
+广东国际频道,http://nclive.grtn.cn/gjpd/sd/live.m3u8
+南方购物频道,http://nclive.grtn.cn/nfgw/sd/live.m3u8
+高尔夫频道,http://nclive.grtn.cn/grfpd/sd/live.m3u8
+广东经济科教频道,http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
+广东影视频道,http://nclive.grtn.cn/tvs4/sd/live.m3u8
+广东少儿频道,http://nclive.grtn.cn/tvs5/sd/live.m3u8
 
 厦门卫视-1080p,http://112.50.243.7/PLTV/88888888/224/3221226781/index.m3u8
 厦门电视台新闻频道-1080p,http://112.50.243.7/PLTV/88888888/224/3221226814/index.m3u8
@@ -5632,6 +5577,14 @@ IPTV海外剧场,http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8
 IPTV动画王国,http://121.31.30.90:8085/ysten-business/live/donghuawg/yst.m3u8
 
 ====综合杂类====,*
+
+中国交通湖北,http://tv.cctbn.com/zgjt/zgjthb.m3u8?auth_key=1893430861-0-0-f7357974c29e0b417e899dc47121337c
+中国交通安徽 http://tv.cctbn.com/zgjt/zgjtah.m3u8?auth_key=1893430861-0-0-d46bdf4ba08863c373461a56e8057d56
+中国交通广东,http://tv.cctbn.com/zgjt/guangdong.m3u8?auth_key=1702308830-0-0-854e4aa4e2406babb3546732b7154068
+中国交通河北,http://17604.liveplay.myqcloud.com/live/17604_989cabaf1c2511e892905cb9018cf0d4.m3u8
+中国交通贵州,http://tv.cctbn.com/zgjt/guizhou.m3u8?auth_key=1703849327-0-0-9b0d42d5eeb39e42312eca2db35f2439
+中国交通吉林,http://tv.cctbn.com/zgjt/jilin.m3u8?auth_key=1713181117-0-0-17fee180d6654d7dd9cf856e1e98975a
+中国交通潍坊,http://tv.cctbn.com/zgjt/weifang.m3u8?auth_key=1712921647-0-0-62b0b6abae36bd2d4a4e7ce92944cb94
 
 山东教育,http://223.110.242.130:6610/cntv/live1/shandongjy/1.m3u8
 教育频道,http://223.110.242.130:6610/cntv/live1/jiaoyutv/j1.m3u8

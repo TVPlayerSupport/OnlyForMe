@@ -35,44 +35,17 @@ Relaxation-Цветение-кактусов,https://live-stack.cdnvideo.ru/hls/
 Relaxation-Цветы,https://live-stack.cdnvideo.ru/hls/5a8e9157e563f20a4fc0a2c9.m3u8
 
 Music-Choice,http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-Music-Choice-Hit,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC100/chunklist.m3u8
-Music-Choice-Hip-Hop-And-R&B,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC106/chunklist.m3u8
-Music-Choice-Teen-Beats,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC118/chunklist.m3u8
-Music-Choice-Today,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC121/chunklist.m3u8
-Music-Choice-Brits+Hits,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC122/chunklist.m3u8
-Music-Choice-Pop-Latino,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC123/chunklist.m3u8
-Music-Choice-R&B-Soul,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC124/chunklist.m3u8
-Music-Choice-Rap,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC125/chunklist.m3u8
-Music-Choice-Dance,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC127/chunklist.m3u8
-Music-Choice-Musica-Urbana,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC128/chunklist.m3u8
-Music-Choice-Indie,http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
-
-
-
 Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-Music-Choice-Hit,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC100/chunklist.m3u8
-Music-Choice-Hip-Hop-And-R&B,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC106/chunklist.m3u8
-Music-Choice-Teen-Beats,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC118/chunklist.m3u8
-Music-Choice-Today,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC121/chunklist.m3u8
-Music-Choice-Brits+Hits,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC122/chunklist.m3u8
-Music-Choice-Pop-Latino,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC123/chunklist.m3u8
-Music-Choice-R&B-Soul,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC124/chunklist.m3u8
-Music-Choice-Rap,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC125/chunklist.m3u8
-Music-Choice-Dance,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC127/chunklist.m3u8
-Music-Choice-Musica-Urbana,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC128/chunklist.m3u8
-Music-Choice-Indie,https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/chunklist.m3u8
+
 
 ################################
-  Updated-on-November 26, 2018
+  Updated-on-November 28, 2018
 ################################
 
-HBO s2,http://iptv-nl3-qscdn.hdflixtv.com/VN-HBO-HD/tracks-v1a1/mono.m3u8
+
 MAX s2,http://iptv-nl3-qscdn.hdflixtv.com/VN-Cinemax/tracks-v1a1/mono.m3u8
-AXN s2,http://iptv-nl3-qscdn.hdflixtv.com/VN-AXN-HD/tracks-v1a1/mono.m3u8
 AXN,http://iptv-nl3-qscdn.hdflixtv.com:80/VN-AXN/index.m3u8
-Fox Movies HD,http://iptv-nl3-qscdn.hdflixtv.com:80/VN-FOX-Movies-HD/index.m3u8
 Fox Life HD,http://iptv-nl3-qscdn.hdflixtv.com:80/VN-FOX-LIFE/index.m3u8
 
 Animal Planet HD,http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
