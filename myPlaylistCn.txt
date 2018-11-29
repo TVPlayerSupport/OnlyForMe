@@ -67,7 +67,7 @@ Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadata
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年11月28日                &&&&&&&&&&
+&&&&&&&&&&            2018年11月29日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -78,6 +78,8 @@ Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadata
 
 
 ====新增源地址专用段====,*
+
+CINEMAX,http://iptv-nl3-qscdn.hdflixtv.com/VN-Cinemax/tracks-v1a1/mono.m3u8
 
 Animal Planet HD,http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
 
