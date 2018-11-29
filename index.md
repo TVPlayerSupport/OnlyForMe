@@ -1,7 +1,7 @@
 ## My Page
 
 
-- [myPlaylistCn.txt](https://tvplayersupport.github.io/OnlyForMe/myPlaylistCn.txt.zip) (更新于：2018-11-28)
+- [myPlaylistCn.txt](https://tvplayersupport.github.io/OnlyForMe/myPlaylistCn.txt.zip) (更新于：2018-11-29)
 
-- [myPlaylistEn.txt](https://tvplayersupport.github.io/OnlyForMe/myPlaylistEn.txt.zip) (Updated on November 28, 2018)
+- [myPlaylistEn.txt](https://tvplayersupport.github.io/OnlyForMe/myPlaylistEn.txt.zip) (Updated on November 29, 2018)
 
