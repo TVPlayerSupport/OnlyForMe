@@ -68,7 +68,7 @@ Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadata
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年12月03日                &&&&&&&&&&
+&&&&&&&&&&            2018年12月04日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -80,6 +80,7 @@ Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadata
 
 ====新增源地址专用段====,*
 
+XCORPS-TV,http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
 广东综艺4k,http://stream1.grtn.cn/4K/sd/live.m3u8 
 
@@ -5877,7 +5878,9 @@ Metro-Radio,http://audiolive.rbc.cn:1935/live/fm945/96K/tzwj_video.m3u8
 北京戏曲综艺广播,http://123.56.16.201:1935/live/fm1051/96K/tzwj_video.m3u8
 北京青年广播,http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
 北京教学广播,http://123.56.16.201:1935/live/fm994/96K/tzwj_video.m3u8
+
 天津新闻广播,http://satellitepull.cnr.cn/live/wxtjxwgb/playlist.m3u8
+
 广东新闻广播,http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 广东股市广播,http://satellitepull.cnr.cn/live/wxgdgsgb/playlist.m3u8
 广东珠江经济广播台,http://satellitepull.cnr.cn/live/wxgdzjjjt/playlist.m3u8
