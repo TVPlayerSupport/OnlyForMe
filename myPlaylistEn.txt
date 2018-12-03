@@ -41,7 +41,7 @@ Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadata
 
 
 ################################
-  Updated-on-December 01, 2018
+  Updated-on-December 03, 2018
 ################################
 
 CINEMAX,http://iptv-nl3-qscdn.hdflixtv.com/VN-Cinemax/tracks-v1a1/mono.m3u8
@@ -49,12 +49,8 @@ CINEMAX,http://iptv-nl3-qscdn.hdflixtv.com/VN-Cinemax/tracks-v1a1/mono.m3u8
 MAX s2,http://iptv-nl3-qscdn.hdflixtv.com/VN-Cinemax/tracks-v1a1/mono.m3u8
 AXN,http://iptv-nl3-qscdn.hdflixtv.com:80/VN-AXN/index.m3u8
 Fox Life HD,http://iptv-nl3-qscdn.hdflixtv.com:80/VN-FOX-LIFE/index.m3u8
-
 Animal Planet HD,http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
-
 Sport ASTRO ARENA,http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-
-Movie HBO HD,http://210.210.155.35/uq2663/h/h231/01.m3u8
 Movie Fox Movies HD,http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
 Movie AXN HD,http://210.210.155.35/dr9445/h/h141/01.m3u8
 Movie AndFlix HD,http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8

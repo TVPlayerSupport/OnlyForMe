@@ -61,8 +61,6 @@ Relaxation-Flowers,https://live-stack.cdnvideo.ru/hls/5a8e9157e563f20a4fc0a2c9.m
 Relaxation-Nature,https://live-stack.cdnvideo.ru/hls/5a8e9cdfe563f20a4fc0a36f.m3u8
 
 
-
-
 Music-Choice,http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
@@ -70,7 +68,7 @@ Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadata
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年12月01日                &&&&&&&&&&
+&&&&&&&&&&            2018年12月03日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -82,11 +80,9 @@ Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadata
 
 ====新增源地址专用段====,*
 
-功夫台,http://weblive.hebtv.com/live/A2/index.m3u8
 
-北京卫视HD,http://39.135.32.28:6610/000000001000/1000000001000021288/index.m3u8?fmt=ts2hls
+广东综艺4k,http://stream1.grtn.cn/4K/sd/live.m3u8 
 
-CINEMAX,http://iptv-nl3-qscdn.hdflixtv.com/VN-Cinemax/tracks-v1a1/mono.m3u8
 
 Animal Planet HD,http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
 
@@ -99,8 +95,6 @@ Heavy-Metal-Tv,http://autopilot.myowntv.org/content/33816/index.m3u8
 hr,http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on
 
 
-
-CMCUSA加州音悦台,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/chunklist.m3u8
 ZEETV,http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
 Flix HD,http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 NexTV,http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
@@ -111,32 +105,10 @@ Russia Mir,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m
 
 Miami-TV18+,http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
-
-
-湖南卫视Ｈ,http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
-
-广东高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225811/2.m3u8
-辽宁高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225818/2.m3u8
-湖北高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225764/2.m3u8
-山东高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225763/2.m3u8
-北京高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225762/2.m3u8
-深圳高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225760/2.m3u8
-湖南高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225759/2.m3u8
-黑龙江高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225757/2.m3u8
-浙江高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225755/2.m3u8
-天津高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225788/2.m3u8
-江西高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225787/2.m3u8
-东南高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225785/2.m3u8
-安徽高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225784/2.m3u8
-江苏高清卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225847/index.m3u8
-东方高清卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8
-
 高清翡翠台,http://123.207.42.38/tvb.php?type=jade
 
 好莱坞中文卫视,http://10505.liveplay.myqcloud.com/live/10505_a1619dd9836811e791eae435c87f075e_550.m3u8
-科幻电影,http://tx.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1.m3u8
-惊悚电影,http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
-怪物科幻,http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8
+
 
 111Tv,http://dcunilive36-lh.akamaihd.net/i/dclive_1@662089/index_150_av-p.m3u8?sd=6&rebase=on
 
@@ -565,6 +537,10 @@ CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 死侍2,http://agmjjzer.ixibeiren.com/20181004/RwYTZZOE/index.m3u8
 复仇者联盟3,http://agmeijucdnvideo.ixibeiren.com:8091/AGMTV/PP7jz96qdl/index.m3u8
 杀手代号47,http://zy.kakazy-yun.com/ppvod/CD4745B8D34A53230B8ED0DDD3F4AD41.m3u8
+
+科幻电影,http://tx.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1.m3u8
+惊悚电影,http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
+怪物科幻,http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8
 
 
 City都市剧场HD,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225754/1.m3u8
@@ -2572,6 +2548,25 @@ BTV北京卫视2(1920),http://223.110.243.155:80/PLTV/3/224/3221227246/1.m3u8
 黑龙江卫视(1920),http://223.110.243.155:80/PLTV/3/224/3221227477/1.m3u8
 上海纪实(1920),http://223.110.243.155:80/PLTV/3/224/3221227395/1.m3u8
 BTV纪实(1920),http://223.110.243.155:80/PLTV/3/224/3221227397/1.m3u8
+
+
+湖南卫视Ｈ,http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
+
+广东高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225811/2.m3u8
+辽宁高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225818/2.m3u8
+湖北高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225764/2.m3u8
+山东高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225763/2.m3u8
+北京高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225762/2.m3u8
+深圳高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225760/2.m3u8
+湖南高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225759/2.m3u8
+黑龙江高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225757/2.m3u8
+浙江高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225755/2.m3u8
+天津高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225788/2.m3u8
+江西高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225787/2.m3u8
+东南高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225785/2.m3u8
+安徽高清卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225784/2.m3u8
+江苏高清卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225847/index.m3u8
+东方高清卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8
 
 
 ====省市地方====,*
@@ -5965,6 +5960,10 @@ AM1206江苏故事广播,http://lzlive.vojs.cn/rWjyus9/92/live.m3u8
 FM91.4江苏文艺广播,http://lzlive.vojs.cn/pL6NkZo/92/live.m3u8
 FM100.5江苏健康广播,http://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8
 FM95.2江苏财经广播,http://lzlive.vojs.cn/caijing/92/live.m3u8
+
+东莞综合(FM100.8MHZ),http://mtv.sun0769.com/dgrtv1/mp4:tv10/index.m3u8
+东莞交通(FM107.5MHz),http://mtv.sun0769.com/dgrtv1/mp4:tv11/index.m3u8
+东莞音乐(FM104.0MHz),http://mtv.sun0769.com/dgrtv1/mp4:tv12/index.m3u8
 
 
 VOA,http://voa11.akacast.akamaistream.net/7/683/437793/v1/ibb.akacast.akamaistream.net/voa11?downl
