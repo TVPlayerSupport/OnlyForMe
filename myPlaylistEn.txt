@@ -44,6 +44,8 @@ Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadata
   Updated-on-December 04, 2018
 ################################
 
+Sony-Movie,http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&
+
 XCORPS-TV,http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
 CINEMAX,http://iptv-nl3-qscdn.hdflixtv.com/VN-Cinemax/tracks-v1a1/mono.m3u8
