@@ -70,7 +70,7 @@ Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadata
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年12月04日                &&&&&&&&&&
+&&&&&&&&&&            2018年12月06日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -81,6 +81,12 @@ Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadata
 
 
 ====新增源地址专用段====,*
+
+KlipkarTv,https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/3000/prog_index.m3u8
+
+SE7ENMUSIC-LiveK,http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_61157635_5292797.m3u8
+
+综艺(4K),http://stream1.grtn.cn/4K/sd/live.m3u8
 
 张艺谋导演《影》高清版本资源,https://tudou.com-l-tudou.com/20181129/14668_3c425f2e/1000k/hls/index.m3u8
 
