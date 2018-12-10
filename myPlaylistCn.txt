@@ -70,7 +70,7 @@ Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadata
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年12月06日                &&&&&&&&&&
+&&&&&&&&&&            2018年12月10日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -81,6 +81,37 @@ Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadata
 
 
 ====新增源地址专用段====,*
+
+
+Bollywood,http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/719/index.m3u8
+
+
+湖南电影HD,http://124.232.231.246:6610/000000001001/201600020005/1400.m3u8?
+湖南电视剧(HD),http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?
+
+日本电影源,http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
+日本电影源,http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
+
+深圳卫视HD,http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106500621_800.m3u8
+天津卫视HD,http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558310_800.m3u8
+山东卫视HD,http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558320_800.m3u8
+湖北卫视HD,http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558321_800.m3u8
+安徽卫视HD,http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106583696_800.m3u8
+辽宁卫视HD,http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106593508_800.m3u8
+江西卫视HD,http://ott1.ysbn.cn:8088/live/coship_TWSX4481495172267387_800.m3u8
+四川卫视HD,http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106676365_800.m3u8
+吉林卫视HD,http://ott1.ysbn.cn:8088/live/coship_TWSX4571495172178334_800.m3u8
+河南卫视HD,http://ott1.ysbn.cn:8088/live/coship_TWSX4581513752714072_800.m3u8
+河北卫视HD,http://ott1.ysbn.cn:8088/live/coship_TWSX4591491549016103_800.m3u8
+东南卫视HD,http://ott1.ysbn.cn:8088/live/coship_TWSX4601513752977795_800.m3u8
+重庆卫视HD,http://ott1.ysbn.cn:8088/live/coship_TWSX4611491549204373_800.m3u8
+内蒙古卫视,http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541287_800.m3u8
+宁夏卫视,http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541293_800.m3u8
+山西卫视,http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541294_800.m3u8
+陕西卫视,http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541296_800.m3u8
+甘肃卫视,http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106593507_800.m3u8
+新疆卫视,http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541298_800.m3u8
+兵团卫视,http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541299_800.m3u8
 
 KlipkarTv,https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/3000/prog_index.m3u8
 
