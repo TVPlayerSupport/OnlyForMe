@@ -70,7 +70,7 @@ Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadata
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 &&&&&&&&&&               更新日期                   &&&&&&&&&&
-&&&&&&&&&&            2018年12月10日                &&&&&&&&&&
+&&&&&&&&&&            2018年12月11日                &&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
 
@@ -82,8 +82,26 @@ Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadata
 
 ====新增源地址专用段====,*
 
+ABCNews,https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+     
+Aghani Aghani Lebanon,https://svs.itworkscdn.net/aghanilive/aghanilive/chunklist.m3u8      
+ARB Ulduz Azerbaijan,http://85.132.81.184:8080/ulduz/live/index.m3u8        
 
-Bollywood,http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/719/index.m3u8
+黄金兄弟,https://yong.yongjiu6.com/ppvod/290D25FAD82B535579582A85466DE095.m3u8
+深海历险记,https://yong.yongjiu6.com/ppvod/30BAD40A90B9E5AA67E594E149F6A484.m3u8
+小偷家族,https://yong.yongjiu6.com/ppvod/528AADCC0984F1B7400E987492BE93E2.m3u8
+的士速递5,https://yong.yongjiu6.com/ppvod/16E3214D826CCE93A334566640A5EC03.m3u8
+江湖儿女,https://zkgn.wb699.com/2018/10/05/mUBSonSef5dZYnYR/playlist.m3u8
+悲伤逆流成河,https://zkgn.wb699.com/2018/10/05/DLsOL3jdSVhlOd0E/playlist.m3u8
+影,https://zkgn.wb699.com/2018/10/05/vVRz0cnHk1PgKqDF/playlist.m3u8
+无双,https://zkgn.wb699.com/2018/10/04/VZD6l8Tlc9D6BTAM/playlist.m3u8
+李茶的姑妈,https://zkgn.wb699.com/2018/10/04/3PsgQWstGgMfFDvO/playlist.m3u8
+胖子行动队,https://zkgn.wb699.com/2018/10/04/aVWM11EGdT3LsWoI/playlist.m3u8
+动物世界BD,https://zkgn.wb699.com/2018/09/28/5B5IzgjXObXM14GZ/playlist.m3u8
+爱情公寓,http://zuikzy.51moca.com/2018/09/09/maFWPBnXR369uOwa/playlist.m3u8
+西虹市首富,https://zuikzy.win7i.com/2018/07/30/hCt7GSGU1sAgOC8j/playlist.m3u8
+蚁人2黄蜂女现身,http://zuikzy.51moca.com/2018/08/29/ObidbPeTg5W3BfD7/playlist.m3u8
+快把我哥带走,http://zuikzy.51moca.com/2018/08/29/grn10Xdh1qAfIacw/playlist.m3u8
 
 
 湖南电影HD,http://124.232.231.246:6610/000000001001/201600020005/1400.m3u8?

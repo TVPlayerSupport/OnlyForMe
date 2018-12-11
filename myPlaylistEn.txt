@@ -41,10 +41,13 @@ Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadata
 
 
 ################################
-  Updated-on-December 10, 2018
+  Updated-on-December 11, 2018
 ################################
 
-Bollywood,http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/719/index.m3u8
+ABCNews,https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+     
+Aghani Aghani Lebanon,https://svs.itworkscdn.net/aghanilive/aghanilive/chunklist.m3u8      
+ARB Ulduz Azerbaijan,http://85.132.81.184:8080/ulduz/live/index.m3u8
 
 KlipkarTv,https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/3000/prog_index.m3u8
 
