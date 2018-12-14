@@ -41,8 +41,31 @@ Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadata
 
 
 ################################
-  Updated-on-December 11, 2018
+  Updated-on-December 14, 2018
 ################################
+
+Fashion Tv Czech & Slovak,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8    
+Women Fashion Channel U.S.A,http://mysisli.com/md2/all-fashionwomen/tracks-v1a1/mono.m3u8 
+Men Fashion Channel U.S.A,http://mysisli.com/md2/all-fashionmen/tracks-v1a1/mono.m3u8 
+ 
+
+FTV L'Original,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8  
+FTV-Paris,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8  
+FTV Midnight Secrets,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8  
+Ftv Top Model,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_top_mode_4qn_27064_top_models_111_hls.smil/chunklist.m3u8  
+FTV Model Fitness,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_fashion_f6e_27081_fitness_102_hls.smil/chunklist.m3u8  
+FTV Fashion Weeks,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_fashion_pzb_27045_weeks_103_hls.smil/chunklist.m3u8  
+FTV Fashion Films,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_fashion_6pw_27050_films_109_hls.smil/chunklist.m3u8   
+FTV Beauty,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_hair_and_snr_27048_hair_and_mak_105_hls.smil/chunklist.m3u8  
+FTV Bridal Fashion,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_bridal_a_eur_27063_bridal_110_hls.smil/chunklist.m3u8  
+FTV Mena,http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_middle_e_60b_42114_middle_east_94_hls.smil/chunklist.m3u8  
+FTV Russia,http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_russia_a_ykm_42111_ftv_russia_w_77_hls.smil/chunklist.m3u8 
+FTV Men,http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_f-men_ad_dbn_27047_fmen_104_hls.smil/chunklist.m3u8  
+ 
+
+Fix HD,http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
+Dance Music TV,https://vcndmtv.teleosmedia.com/stream/dmtv/dmtv/seglist_720p.m3u8
+The Country Network,https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 
 ABCNews,https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
      
