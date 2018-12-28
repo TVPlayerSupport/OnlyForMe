@@ -29,8 +29,15 @@ Music-Choice,https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadata
 
 
 ################################
-  Updated-on-December 19, 2018
+  Updated-on-December 28, 2018
 ################################
+
+FOX ACTION,http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
+
+hollywood movies 3,http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+hollywood movies 7,http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+
+WestTV- Australia,http://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeast-2/5575390700001/profile_2/chunklist_dvr.m3u8
 
 cnn-indonesia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 
