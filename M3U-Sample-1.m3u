@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel1-Format-1
+Channel1-Format-1,http://212.26.132.86/PLTV/9999999/888/789998654/index.m3u8
+
+#EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel2-Format-1
+Channel2-Format-1,http://212.26.132.86/PLTV/9999999/888/789998876/index.m3u8
+
+#EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel3-Format-1
+Channel3-Format-1,http://212.26.132.86/PLTV/9999999/888/789991235/index.m3u8
+
+#EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel4-Format-1
+Channel4-Format-1,http://212.26.132.86/PLTV/9999999/888/789991235/index.mp4
+
+#EXTINF:-1 tvg-logo="sample.png" group-title="No group",Channel5-Format-1
+Channel5-Format-1,http://212.26.132.86/PLTV/9999999/888/7899543276/index.mp3
+
+
+
+
+
+
