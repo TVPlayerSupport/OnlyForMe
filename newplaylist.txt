@@ -1,0 +1,99 @@
+
+
+download link: 
+
+
+
+Kadak-Hits,http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+
+POP-PATAKA,http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+
+M20-TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+Radio Capital_tv,http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
+
+Radio-Contact,http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1800_av-p.m3u8
+
+MTV now,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+
+
+NEW,####
+
+
+Kool London Radio,http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+
+DSport,http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8?fluxustv.m3u8
+
+
+
+
+end,####
+
+France 24 English (Opt-1),http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+CGTN Documentary,http://live.cgtn.com/cctv-d.m3u8?fluxustv.m3u8
+CGTN English (Opt-1),http://live.cgtn.com/500/prog_index.m3u8
+CGTN English (Opt-2),http://live.cgtn.com/1000/prog_index.m3u8
+
+AKC TV,https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+
+Bloomberg Television,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+WSVI-TV,http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8
+
+The Weather Channel,http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+Weather Nation,http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+The Outdoor Cooking Channel (New!),http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
+
+UN Web TV,https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8?fluxustv.m3u8
+
+Sidewalks,http://30a-tv.com/sidewalks.m3u8
+
+Newsmax TV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+Olympic Channel (SD),http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?fluxustv.m3u8
+Olympic Channel (HD),http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
+Olympic Channel (UHD),http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+
+Red Bull TV (Opt-2),http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+Red Bull TV (UHD),https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+Mobcrush,https://ott.mobcrush.com/hls/0/ott.m3u8
+
+
+NBC (WTVJ) (EST),http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
+
+
+HSN,https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+HSN 2,https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+Jewelry Television,http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+
+
+Fox News Radio,http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+
+Free Speech TV,https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+Darcizzle Offshore,http://30a-tv.com/darcizzle.m3u8
+
+Docurama,https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+
+
+California Music Channel (Opt-2),https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
+
+CBS (WFOR) (EST),http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+CBS News (SD),http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+CONtv,https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+
+Dancestar TV,https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+
+
+C-SPAN,https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
+C-SPAN 2,https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8?fluxustv.m3u8
+C-SPAN 3,https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8?fluxustv.m3u8
+
+
+
+
+
