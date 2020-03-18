@@ -2,6 +2,11 @@
 
 download link: 
 
+https://TVPlayerSupport.github.io/OnlyForMe/newplaylist.txt
+https://TVPlayerSupport.github.io/OnlyForMe/myPlaylistCn.txt
+https://TVPlayerSupport.github.io/OnlyForMe/myPlaylistEn.txt
+https://TVPlayerSupport.github.io/OnlyForMe/testPlaylist.txt
+
 
 
 Kadak-Hits,http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
@@ -15,6 +20,19 @@ Radio Capital_tv,http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_
 Radio-Contact,http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1800_av-p.m3u8
 
 MTV now,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+
+
+Kadak-Hits,https://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+
+POP-PATAKA,https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+
+M20-TV,https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+Radio Capital_tv,https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
+
+Radio-Contact,https://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1800_av-p.m3u8
+
+MTV now,https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 
 
 NEW,####
